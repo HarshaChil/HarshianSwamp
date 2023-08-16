@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Mask
+  - Frog
+  - Enemy
+  - Fly
+  - EatingBar
+  - HealthBar
+  - Hurtbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Obstacle
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2325286707
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2811601877
+    locked: 0
+  - name: Tilemap
+    uniqueID: 248564251
+    locked: 0
+  - name: Enemy
+    uniqueID: 587973769
+    locked: 0
+  - name: Player
+    uniqueID: 44424911
+    locked: 0
